@@ -1,0 +1,9 @@
+﻿# 如果有与 python 版本相关的要求，可在环境中指定。一般 requirements.txt 里不强制 python=3.10
+# 这里只列出PyPI包依赖。
+# ---------------
+#torch==2.5.0
+torchaudio==2.5.0
+transformers==4.31.0
+numpy==1.23.5
+# 可按需添加：
+#pip install tokenizers==0.13.3
